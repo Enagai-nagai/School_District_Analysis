@@ -8,8 +8,7 @@ There was a report that there was a fraud with the test performance of 9th grade
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 ### Corrected Data Results
 #### District
-Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-0	15	39,170	$24,649,428.00	78.9	81.9	74.8	85.7	64.9
+
 #### School
 #### Top School and Bottom School
 #### Grade & Score
